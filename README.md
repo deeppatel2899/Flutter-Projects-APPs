@@ -1,7 +1,7 @@
 # Flutter-Projects-APPs
 All my work is stored here while trying to learn FLUTTER DART. Hope this helps you also !
 
-<h2> Recipe App </h2>
+<h1><b> Recipe App</b> </h1>
 <p> While trying to learn Flutter Dart, this is my Recipe App, which I created to learn deep inside dart and to explore different Widgets in flutter !
 
 <h2>Functionality</h2>
